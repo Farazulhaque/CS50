@@ -1,0 +1,3 @@
+1. Enter height of the mario.
+2. If height is less than 1 or greater than 8 then go back to step1.
+3. iterate from 1 to height entered and on each iteration print itered no of # and then new line.
